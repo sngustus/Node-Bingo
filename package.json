@@ -1,0 +1,31 @@
+{
+  "name": "node-bingo",
+  "version": "1.0.0",
+  "description": "Node-based webapp for bingo game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sngustus/Node-Bingo.git"
+  },
+  "keywords": [
+    "node",
+    "bingo",
+    "postgres",
+    "postgreSQL",
+    "express",
+    "tailwind"
+  ],
+  "author": "Steve Gustus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sngustus/Node-Bingo/issues"
+  },
+  "homepage": "https://github.com/sngustus/Node-Bingo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.0.3"
+  }
+}
